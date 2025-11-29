@@ -21,7 +21,7 @@ LTP-image-retreival/
 
 1. **Clone or navigate to the project directory:**
    ```bash
-   cd /Users/tayeb/Desktop/TP/LTP-image-retreival
+   cd /LTP-image-retreival
    ```
 
 2. **Create a virtual environment (recommended):**
